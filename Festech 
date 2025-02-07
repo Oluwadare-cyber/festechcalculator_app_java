@@ -100,7 +100,7 @@ class FestechCalculator {
                 }
             }
         }
-        System.out.print("Thank you for using Faisol's calculator");
+        System.out.print("Thank you for using Festech calculator");
 
     }
 

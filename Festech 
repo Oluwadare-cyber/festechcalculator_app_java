@@ -1,11 +1,5 @@
-Matric No- U23CYS1044 
-Name- OMOTOGO FESTUS OLUWADARE 
-Department CYBER SECURITY 
-
-
-
 import java.util.Scanner;
-class FestechCalculator {
+class Festech Calculator {
     public static void main(String[] args) {
         System.out.print("""
                 Welcome to Festech Calculator
